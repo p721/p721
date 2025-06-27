@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Per Johansson
 - 👀 I’m interested in electrical engineering, programming.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Nix.
 - 📫 How to reach me...
 
 <!---
